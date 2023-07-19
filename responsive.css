@@ -51,4 +51,20 @@
 .right-side-banner{
     width: 90%;
 }
+/* online Cards style responsive */
+.online-cards{
+    width: 80%;
+    margin:20px auto;
+    display: flex;
+    text-align: center;
+    /* justify-content: center; */
+    /* border: 2px solid red; */
+    flex-direction: column;
+}
+.games-card p{
+    color: #534C64;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 }

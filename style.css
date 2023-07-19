@@ -116,3 +116,50 @@ button:hover{
 .left-side-banner .banner-btn-2{
     background-color:aqua;
 }
+/* Banner ends */
+/* Main Online funny games section  start */
+.online-games-container{
+    max-width: 1000px;
+    width: 80%;
+    margin:20px auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    /* border: 2px solid red; */
+}
+.funny-color-text{
+    font-size: 25px;
+    font-weight: 800;
+    background: linear-gradient(to bottom, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.online-text h3{
+    font-size: 25px;
+    font-weight: 800;
+}
+.online-text p{
+    color: #534C64;
+    text-align: center;
+    font-size: 13px;
+    margin-top: 10px;
+}
+/* online cards box style from here */
+.online-cards img{
+    width: 90%;
+}
+.online-cards{
+    max-width: 1000px;
+    width: 80%;
+    margin:20px auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    /* border: 2px solid red; */
+}
+.games-card p{
+    color: #534C64;
+    font-size: 15px;
+    padding-top: 20px;
+}
