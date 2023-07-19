@@ -32,4 +32,23 @@
         margin-bottom: 10px;
         
     }
+    /* header banner section responsive */
+  .banner-container{
+    display: flex;
+    flex-direction: column;
+    margin-top:20px;
+  }
+  .banner-text-side{
+    margin:auto;
+}
+.left-side-banner{
+    width: 70%;
+    
+}
+.banner-container img{
+    width: 100%;
+}
+.right-side-banner{
+    width: 90%;
+}
 }
