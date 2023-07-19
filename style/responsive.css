@@ -1,0 +1,26 @@
+/* For Tablet Device  */
+/* @media screen and (max-width:768px) {
+    nav{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 100px;
+    }
+
+} */
+
+
+/* For Mobile Device  */
+@media screen and (max-width:425px) {
+    nav{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 150px;
+    }
+    
+    .nav-menu-side{
+        display: flex;
+        flex-direction: column;
+    }
+}
